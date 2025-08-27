@@ -29,7 +29,6 @@ Testing the Vim moves when using the macOS Accessibility requires building an ex
 
 * new motions
 * new apps to The Wizard
-* custom key remapping
 
 # The Alternatives
 
