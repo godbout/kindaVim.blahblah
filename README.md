@@ -27,8 +27,9 @@ Testing the Vim moves when using the macOS Accessibility requires building an ex
 
 # The Roadmap
 
-* new motions
+* [new motions](https://github.com/godbout/kindaVim.blahblah/issues/139)
 * new apps to The Wizard
+* plugins system ([#150](https://github.com/godbout/kindaVim.blahblah/issues/150), [#271](https://github.com/godbout/kindaVim.blahblah/issues/271))
 
 # The Alternatives
 
