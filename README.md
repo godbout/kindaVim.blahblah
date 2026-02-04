@@ -21,9 +21,9 @@ So if you're like me and spend your mornings reading, swimming in the open sea o
 
 The Docs have been moved [here](https://docs.kindavim.app). Updates ongoing!
 
-# The AccessibilityStrategyTestApp
+# Open Source
 
-Testing the Vim moves when using the macOS Accessibility requires building an external app. This app, as well as the tests of each move in the context of the Accessibility Strategy, are open source and available here: [AccessibilityStrategyTestApp](https://github.com/godbout/AccessibilityStrategyTestApp)
+Testing the Vim moves when using the macOS Accessibility requires building an external app. This app, as well as all the Unit and UI Tests of each move in the context of the Accessibility Strategy, are open source and available here: [AccessibilityStrategyTestApp](https://github.com/godbout/AccessibilityStrategyTestApp)
 
 # The Roadmap
 
